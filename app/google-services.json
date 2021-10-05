@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432817162394",
+    "project_id": "photon-a27e3",
+    "storage_bucket": "photon-a27e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432817162394:android:4d8f83c9368f558dfff723",
+        "android_client_info": {
+          "package_name": "com.maajjyy.photon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432817162394-mgfn39tp7ba55bjd9aih5adcgffqpea8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGJncibq3aTkKEzXO6gSrqjJg3QrfzOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432817162394-mgfn39tp7ba55bjd9aih5adcgffqpea8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
